@@ -1,0 +1,1 @@
+To run app `react-native run-android`
